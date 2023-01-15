@@ -4,7 +4,7 @@ import java.util.*;
 
 class Solution {
     public int[] solution(String today, String[] terms, String[] privacies) {
-
+    	//수정 
         String[] today_array = today.split("\\.");
         System.out.println(Integer.parseInt(today_array[1]));
         
